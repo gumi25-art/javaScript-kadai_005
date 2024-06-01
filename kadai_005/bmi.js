@@ -1,10 +1,5 @@
-// 変数の宣言
-let userName;
-
-// 値の代入
- userName = '体重';
-
-// 変数の宣言・値の代入
+// 変数の宣言.値の代入
+let userName;'体重';
 let userNumber = 68;
 
 // 値の再代入
@@ -12,7 +7,9 @@ let userNumber = 68;
 userNumber = 1.7;
 
 // 値の再代入
-userName = 'BMI';
+userName = '計算式';
+userNumber = 23.529411764705884;
+
 
 // コンソールへの出力
 console.log(68/1.7**2);
