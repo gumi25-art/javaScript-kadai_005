@@ -8,10 +8,11 @@ userNumber = 1.7;
 
 // 値の再代入
 userName = '計算式';
-userNumber = 23.529411764705884;
+userNumber = 68/1.7**2;
 
 
 // コンソールへの出力
 console.log(68/1.7**2);
+
 
 
